@@ -28,7 +28,7 @@ Soy una persona apasionada por la tecnología y el aprendizaje continuo. Me cons
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </div>
-### Lenguajes y Frameworks
+Lenguajes y Frameworks
 - HTML5
 - CSS3
 - JavaScript (básico)
