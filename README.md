@@ -17,7 +17,17 @@ Soy una persona apasionada por la tecnología y el aprendizaje continuo. Me cons
 ---
 
 ## 🛠️ Tecnologías y Herramientas
-
+<div align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+</div>
 ### Lenguajes y Frameworks
 - HTML5
 - CSS3
@@ -43,6 +53,19 @@ Soy una persona apasionada por la tecnología y el aprendizaje continuo. Me cons
 - 🌐 [Portafolio Personal
 
 ---
+---
+
+## 📊 GitHub Stats
+
+![codeBAAA](https://github.com/CodeBAAA/codeBAAA/edit/main/README.md)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresvega&layout=compact&theme=github_dark)
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=andresvega&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 > “La clave no es ser perfecto, es ser constante.” 💡
 
