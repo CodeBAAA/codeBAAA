@@ -57,16 +57,6 @@ Soy una persona apasionada por la tecnología y el aprendizaje continuo. Me cons
 
 ## 📊 GitHub Stats
 
-![codeBAAA](https://github.com/CodeBAAA/codeBAAA/edit/main/README.md)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andresvega&layout=compact&theme=github_dark)
-
----
-
-## 🏆 GitHub Profile Trophy
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=andresvega&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 > “La clave no es ser perfecto, es ser constante.” 💡
 
 Gracias por visitar mi perfil. ¡Nos vemos en el código! 🚀
